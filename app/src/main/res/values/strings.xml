@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text001">Hello! I am from Text001.</string>
+    <string name="youtube_logo">youtube_logo</string>
+    <string name="click_here">Click Here</string>
+    <string name="textview">TextView</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="todo">TODO</string>
+</resources>
